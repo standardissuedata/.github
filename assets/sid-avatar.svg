@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Standard Issue Data, SID monogram">
+  <rect width="1024" height="1024" fill="#fbfbf8"/>
+  <g fill="none" stroke="#191b18" stroke-width="30" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M382 405H248V512H382V619H248"/>
+    <path d="M438 405H586M512 405V619M438 619H586"/>
+    <path d="M642 405H718Q790 405 790 477V547Q790 619 718 619H642Z"/>
+  </g>
+  <path d="M248 694H790" stroke="#355e43" stroke-width="12"/>
+</svg>
