@@ -8,11 +8,11 @@ Vehicle identity, safety records, fuel economy, and observed listing history —
 
 ## Open source
 
-Our first open-source project is **Vehicle Profile**: a standalone TypeScript library and CLI for public U.S. vehicle data from NHTSA and EPA/DOE FuelEconomy.gov.
+Our first open-source project is **[Vehicle Profile](https://github.com/standardissuedata/vehicle-profile)**: a standalone TypeScript library and CLI for public U.S. vehicle data from NHTSA and EPA/DOE FuelEconomy.gov.
 
 It combines VIN decoding, recall campaigns, owner complaints, crash ratings, and rated fuel economy in versioned JSON, with source URLs and explicit matching scope. When the evidence leaves multiple compatible configurations, it returns those candidates.
 
-**Status:** version 0.1.0 is in release preparation and is not yet published. The code is MIT-licensed and requires Node.js 22 or later.
+**Version 0.1.0 is available on [npm](https://www.npmjs.com/package/@standardissuedata/vehicle-profile).** The code is MIT-licensed and requires Node.js 22 or later.
 
 ## How we approach data
 
